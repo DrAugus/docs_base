@@ -48,7 +48,7 @@ importers:
       vite-plugin-pwa: ^0.21.1
       vitepress: 1.6.3
       vue: ^3.4.21
-      vue-echarts: ^6.6.8
+      vue-echarts: ^7.0.0
     devDependencies:
       '@amap/amap-jsapi-loader': 1.0.1
       '@kjgl77/datav-vue3': 1.7.4_vue@3.5.13
@@ -63,7 +63,7 @@ importers:
       vite-plugin-pwa: 0.21.1_vite@6.1.0
       vitepress: 1.6.3_hrh5dza3ythuu5f7gwyvtvdoiq
       vue: 3.5.13
-      vue-echarts: 6.7.3_echarts@5.6.0+vue@3.5.13
+      vue-echarts: 7.0.3_echarts@5.6.0+vue@3.5.13
 
   temp:
     specifiers:
@@ -4314,10 +4314,6 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /resize-detector/0.3.0:
-    resolution: {integrity: sha512-R/tCuvuOHQ8o2boRP6vgx8hXCCy87H1eY9V5imBYeVNyNVpuL9ciReSccLj2gDcax9+2weXy3bc8Vv+NRXeEvQ==}
-    dev: true
-
   /resolve/1.22.10:
     resolution: {integrity: sha512-NPRy+/ncIMeDlTAsuqwKIiferiawhefFJtkNSW0qZJEqMEb+qBt/77B/jGeeek+F0uOeN05CDa6HXbbIgtVX4w==}
     engines: {node: '>= 0.4'}
@@ -5244,24 +5240,21 @@ packages:
       vue: 3.5.13
     dev: true
 
-  /vue-echarts/6.7.3_echarts@5.6.0+vue@3.5.13:
-    resolution: {integrity: sha512-vXLKpALFjbPphW9IfQPOVfb1KjGZ/f8qa/FZHi9lZIWzAnQC1DgnmEK3pJgEkyo6EP7UnX6Bv/V3Ke7p+qCNXA==}
-    requiresBuild: true
+  /vue-echarts/7.0.3_echarts@5.6.0+vue@3.5.13:
+    resolution: {integrity: sha512-/jSxNwOsw5+dYAUcwSfkLwKPuzTQ0Cepz1LxCOpj2QcHrrmUa/Ql0eQqMmc1rTPQVrh2JQ29n2dhq75ZcHvRDw==}
     peerDependencies:
-      '@vue/composition-api': ^1.0.5
       '@vue/runtime-core': ^3.0.0
-      echarts: ^5.4.1
-      vue: ^2.6.12 || ^3.1.1
+      echarts: ^5.5.1
+      vue: ^2.7.0 || ^3.1.1
     peerDependenciesMeta:
-      '@vue/composition-api':
-        optional: true
       '@vue/runtime-core':
         optional: true
     dependencies:
       echarts: 5.6.0
-      resize-detector: 0.3.0
       vue: 3.5.13
       vue-demi: 0.13.11_vue@3.5.13
+    transitivePeerDependencies:
+      - '@vue/composition-api'
     dev: true
 
   /vue/3.5.13:
