@@ -10,9 +10,9 @@
       },
       {
         camp_name: '阵营不明',
-        camp_channel: '925',
-        camp_icon: 'https://fastcdn.hoyoverse.com/content-v2/nap/124676/fb8e50f12b6c4623b6b65d9edffd76dd_179889476792215002.png',
-        camp_shade: 'https://fastcdn.hoyoverse.com/content-v2/nap/124676/623c2c8db94de38d8fde92fa8dd7f1cb_7784391364925293549.png',
+        camp_channel: '926',
+        camp_icon: 'https://fastcdn.hoyoverse.com/content-v2/nap/124676/dd63201667e09c9f3b468b5fb244297d_6120558112943159334.png',
+        camp_shade: 'https://fastcdn.hoyoverse.com/content-v2/nap/124676/0e6cd7d3984de5f2ff6261e51af9c51e_6512899852675462495.png',
         camp_kv: ''
       },
       {
@@ -20,7 +20,7 @@
         camp_channel: '782',
         camp_icon: 'https://fastcdn.hoyoverse.com/content-v2/nap/122783/5e2833934e34b266dde548849040d433_3077251731928402711.png',
         camp_shade: 'https://fastcdn.hoyoverse.com/content-v2/nap/122783/9ba182a0025ec69d4fc1a543d8d795cb_8725052673224252476.png',
-        camp_kv: 'https://fastcdn.hoyoverse.com/content-v2/nap/122783/f9396eb7131f5f3b7793014b0eabe93c_4741851414852385779.png'
+        camp_kv: 'https://fastcdn.hoyoverse.com/content-v2/nap/122783/7591436c19ac37f129cb82555497b003_6070941015026539220.png'
       },
       {
         camp_name: '对空六课',
@@ -68,9 +68,9 @@
       },
       {
         camp_name: 'Faction Unknown',
-        camp_channel: '925',
-        camp_icon: 'https://fastcdn.hoyoverse.com/content-v2/nap/124676/fb8e50f12b6c4623b6b65d9edffd76dd_179889476792215002.png',
-        camp_shade: 'https://fastcdn.hoyoverse.com/content-v2/nap/124676/623c2c8db94de38d8fde92fa8dd7f1cb_7784391364925293549.png',
+        camp_channel: '926',
+        camp_icon: 'https://fastcdn.hoyoverse.com/content-v2/nap/124676/dd63201667e09c9f3b468b5fb244297d_6120558112943159334.png',
+        camp_shade: 'https://fastcdn.hoyoverse.com/content-v2/nap/124676/0e6cd7d3984de5f2ff6261e51af9c51e_6512899852675462495.png',
         camp_kv: ''
       },
       {
@@ -78,7 +78,7 @@
         camp_channel: '782',
         camp_icon: 'https://fastcdn.hoyoverse.com/content-v2/nap/122783/5e2833934e34b266dde548849040d433_3077251731928402711.png',
         camp_shade: 'https://fastcdn.hoyoverse.com/content-v2/nap/122783/9ba182a0025ec69d4fc1a543d8d795cb_8725052673224252476.png',
-        camp_kv: 'https://fastcdn.hoyoverse.com/content-v2/nap/122783/f9396eb7131f5f3b7793014b0eabe93c_4741851414852385779.png'
+        camp_kv: 'https://fastcdn.hoyoverse.com/content-v2/nap/122783/7591436c19ac37f129cb82555497b003_6070941015026539220.png'
       },
       {
         camp_name: 'Section 6',
@@ -132,6 +132,22 @@
   },
   CHAR: [
     [
+      {
+        char_name: '柏妮思',
+        char_color: '#cfb684',
+        char_line: '你看起来不太热烈呢，<br/>要「燃」一下吗~',
+        char_avatar: 'https://fastcdn.hoyoverse.com/content-v2/nap/125214/c2e0087b8deafead3f0e39b62861db7d_5879050859176790791.png',
+        char_cover_home: 'https://fastcdn.hoyoverse.com/content-v2/nap/125214/1917005b1490693a16de2e6223c986e8_1028584946517791466.png',
+        char_chan_id: '889'
+      },
+      {
+        char_name: '凯撒·金',
+        char_color: '#d14e45',
+        char_line: '我就是凯撒，卡吕冬之子的老大。',
+        char_avatar: 'https://fastcdn.hoyoverse.com/content-v2/nap/125210/05377cce77f7978d5896a1626a91d443_6362377634631686641.png',
+        char_cover_home: 'https://fastcdn.hoyoverse.com/content-v2/nap/125210/814b42bde05eb41997c32b94705a0a5e_5531594070469280608.png',
+        char_chan_id: '889'
+      },
       {
         char_name: '赛斯·洛威尔',
         char_color: '#5d82b0',
@@ -303,6 +319,22 @@
     ],
     [
       {
+        char_name: 'Burnice',
+        char_color: '#cfb684',
+        char_line: "You don't seem too fired up. Need a little spark~?",
+        char_avatar: 'https://fastcdn.hoyoverse.com/content-v2/nap/125214/c2e0087b8deafead3f0e39b62861db7d_5879050859176790791.png',
+        char_cover_home: 'https://fastcdn.hoyoverse.com/content-v2/nap/125214/1917005b1490693a16de2e6223c986e8_1028584946517791466.png',
+        char_chan_id: '889'
+      },
+      {
+        char_name: 'Caesar King',
+        char_color: '#d14e45',
+        char_line: "I'm Caesar herself, the leader of Sons of Calydon.",
+        char_avatar: 'https://fastcdn.hoyoverse.com/content-v2/nap/125210/05377cce77f7978d5896a1626a91d443_6362377634631686641.png',
+        char_cover_home: 'https://fastcdn.hoyoverse.com/content-v2/nap/125210/814b42bde05eb41997c32b94705a0a5e_5531594070469280608.png',
+        char_chan_id: '889'
+      },
+      {
         char_name: 'Seth Lowell',
         char_color: '#5d82b0',
         char_line: "Captain, I'll apprehend the perp!",
@@ -473,6 +505,30 @@
     ]
   ],
   JS_CHAR: {
+    burnice: {
+      key: 'Burnice',
+      id: 'burnice',
+      name: '柏妮思',
+      prefix: '',
+      star: 5,
+      event_exclusive: true,
+      intro: '你看起来不太热烈呢，<br/>要「燃」一下吗~',
+      camp: 'SonsofCalydon',
+      ele: 'Element.ether',
+      weapon: 'Weapon.anomaly'
+    },
+    caesar_king: {
+      key: 'Caesar King',
+      id: 'caesar_king',
+      name: '凯撒·金',
+      prefix: '',
+      star: 5,
+      event_exclusive: true,
+      intro: '我就是凯撒，卡吕冬之子的老大。',
+      camp: 'SonsofCalydon',
+      ele: 'Element.ether',
+      weapon: 'Weapon.anomaly'
+    },
     seth_lowell: {
       key: 'Seth Lowell',
       id: 'seth_lowell',
@@ -482,6 +538,18 @@
       event_exclusive: true,
       intro: '队长，逮捕犯人就交给我吧！',
       camp: 'CriminalInvestigationSpecialResponseTeam',
+      ele: 'Element.ether',
+      weapon: 'Weapon.anomaly'
+    },
+    jane_doe: {
+      key: 'Jane Doe',
+      id: 'jane_doe',
+      name: '简·杜',
+      prefix: '',
+      star: 5,
+      event_exclusive: true,
+      intro: '哎呀，上次是上次嘛！这次我说的是真的哦，相信我吧~',
+      camp: 'FactionUnknown',
       ele: 'Element.ether',
       weapon: 'Weapon.anomaly'
     },

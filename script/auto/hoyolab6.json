@@ -1,158 +1,71 @@
 [
     {
-        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=30816396",
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=34424519",
         "name": [
-            "Lien on Life, Lease on Fate",
-            "Lien on Life, Lease on Fate",
-            "Thorns of Scented Crown"
+            "Eyes of a Ninja",
+            "Epochal Spectrum",
+            "Eyes of a Ninja",
+            "Epochal Spectrum"
         ],
         "name_lower": [
-            "lien_on_life_lease_on_fate_",
-            "lien_on_life_lease_on_fate_",
-            "thorns_of_scented_crown_"
+            "eyes_of_a_ninja_",
+            "epochal_spectrum_",
+            "eyes_of_a_ninja_",
+            "epochal_spectrum_"
         ],
         "image": [
             1
         ],
         "shortName": [
-            "Jade",
-            "Argenti",
-            "Jade",
-            "Argenti"
+            "Rappa",
+            "Lunae",
+            "Rappa",
+            "Lunae"
         ],
-        "start": "2024/07/10 12:00:00 +0800",
-        "end": "2024/07/30 15:00:00 +0800",
+        "start": "2024/11/13 11:59:00 +0800",
+        "end": "2024/11/20 11:59:00 +0800",
         "version": "xxx",
         "wish5star": [
-            "jade",
-            "argenti",
-            "jade",
-            "argenti"
+            "rappa",
+            "lunae",
+            "rappa",
+            "lunae"
         ],
-        "wish4star": [
-            "serval",
-            "natasha",
-            "asta",
-            "serval",
-            "natasha",
-            "asta"
-        ],
+        "wish4star": [],
         "wishName": [],
         "url": [
             ""
         ]
     },
     {
-        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=29992036",
-        "name": [
-            "Firefull Flyshine",
-            "Floral Triptych",
-            "Firefull Flyshine",
-            "Floral Triptych"
-        ],
-        "name_lower": [
-            "firefull_flyshine_",
-            "floral_triptych_",
-            "firefull_flyshine_",
-            "floral_triptych_"
-        ],
-        "image": [
-            1
-        ],
-        "shortName": [
-            "Firefly",
-            "Mei",
-            "Firefly",
-            "Mei"
-        ],
-        "start": "2024/07/10 11:59:00 +0800",
-        "end": "2024/07/17 11:59:00 +0800",
-        "version": "xxx",
-        "wish5star": [
-            "firefly",
-            "mei",
-            "firefly",
-            "mei"
-        ],
-        "wish4star": [
-            "gallagher",
-            "misha",
-            "xueyi",
-            "gallagher",
-            "misha",
-            "xueyi"
-        ],
-        "wishName": [],
-        "url": [
-            ""
-        ]
-    },
-    {
-        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=29127114",
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=33777781",
         "name": [],
         "name_lower": [],
         "image": [
             1
         ],
         "shortName": [
-            "Boothill",
-            "Xuan",
-            "Boothill",
-            "Xuan"
-        ],
-        "start": "2024/05/29 12:00:00 +0800",
-        "end": "2024/06/18 15:00:00 +0800",
-        "version": "xxx",
-        "wish5star": [
-            "boothill",
-            "xuan",
-            "boothill",
-            "xuan"
-        ],
-        "wish4star": [
-            "pela",
-            "luka",
-            "hook",
-            "pela",
-            "luka",
-            "hook"
-        ],
-        "wishName": [],
-        "url": [
-            ""
-        ]
-    },
-    {
-        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=28251947",
-        "name": [
-            "Just Intonation"
-        ],
-        "name_lower": [
-            "just_intonation_"
-        ],
-        "image": [
-            1
-        ],
-        "shortName": [
-            "Robin",
+            "Lingsha",
             "Numby",
-            "Robin",
+            "Lingsha",
             "Numby"
         ],
-        "start": "2024/05/29 11:59:00 +0800",
-        "end": "2024/06/05 11:59:00 +0800",
+        "start": "2024/10/02 12:00:00 +0800",
+        "end": "2024/10/22 15:00:00 +0800",
         "version": "xxx",
         "wish5star": [
-            "robin",
+            "lingsha",
             "numby",
-            "robin",
+            "lingsha",
             "numby"
         ],
         "wish4star": [
-            "hanya",
-            "xueyi",
-            "hanya",
-            "xueyi"
+            "misha",
+            "natasha",
+            "guinaifen",
+            "misha",
+            "natasha",
+            "guinaifen"
         ],
         "wishName": [],
         "url": [
@@ -160,44 +73,72 @@
         ]
     },
     {
-        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=30816536",
-        "name": "Brilliant Fixation",
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=32661409",
+        "name": [
+            "Stormrider's Bolt",
+            "Indelible Coterie: Kafka",
+            "Indelible Coterie: Black Swan",
+            "Indelible Coterie: Robin",
+            "Indelible Coterie",
+            "Indelible Coterie",
+            "Stormrider's Bolt"
+        ],
+        "name_lower": [
+            "stormrider's_bolt_",
+            "indelible_coterie:_kafka_",
+            "indelible_coterie:_black_swan_",
+            "indelible_coterie:_robin_",
+            "indelible_coterie_",
+            "indelible_coterie_",
+            "stormrider's_bolt_"
+        ],
+        "image": [
+            1
+        ],
+        "shortName": [
+            "Swan"
+        ],
+        "start": "2024/10/02 11:59:00 +0800",
+        "end": "2024/10/09 11:59:00 +0800",
+        "version": "xxx",
+        "wish5star": [
+            "swan"
+        ],
+        "wish4star": [],
+        "wishName": [],
+        "url": [
+            ""
+        ]
+    },
+    {
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=32306326",
+        "name": [],
         "name_lower": [],
         "image": [
             1
         ],
         "shortName": [
-            "Priceless",
-            "Gaze",
-            "Priceless",
-            "Gaze",
-            "Yet Hope Is Priceless",
-            "An Instant Before A Gaze",
-            "Yet Hope Is Priceless",
-            "An Instant Before A Gaze"
+            "Jiaoqiu",
+            "Sparkle",
+            "Jiaoqiu",
+            "Sparkle"
         ],
-        "start": "2024/07/10 12:00:00 +0800",
-        "end": "2024/07/30 15:00:00 +0800",
+        "start": "2024/08/21 12:00:00 +0800",
+        "end": "2024/09/09 15:00:00 +0800",
         "version": "xxx",
         "wish5star": [
-            "Priceless",
-            "Gaze",
-            "Priceless",
-            "Gaze",
-            "Yet Hope Is Priceless",
-            "An Instant Before A Gaze",
-            "Yet Hope Is Priceless",
-            "An Instant Before A Gaze"
+            "jiaoqiu",
+            "sparkle",
+            "jiaoqiu",
+            "sparkle"
         ],
         "wish4star": [
-            "Fall",
-            "Feeling",
-            "Market",
-            "Fall",
-            "Feeling",
-            "Market",
-            "Trend of the Universal Market",
-            "Trend of the Universal Market"
+            "hook",
+            "guinaifen",
+            "arlan",
+            "hook",
+            "guinaifen",
+            "arlan"
         ],
         "wishName": [],
         "url": [
@@ -205,38 +146,220 @@
         ]
     },
     {
-        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=29992142",
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=31605001",
+        "name": [
+            "Bloom in Gloom"
+        ],
+        "name_lower": [
+            "bloom_in_gloom_"
+        ],
+        "image": [
+            1
+        ],
+        "shortName": [
+            "Yunli",
+            "Huohuo",
+            "Yunli",
+            "Huohuo"
+        ],
+        "start": "2024/08/21 11:59:00 +0800",
+        "end": "2024/08/28 11:59:00 +0800",
+        "version": "xxx",
+        "wish5star": [
+            "yunli",
+            "huohuo",
+            "yunli",
+            "huohuo"
+        ],
+        "wish4star": [
+            "hanya",
+            "yukong",
+            "lynx",
+            "hanya",
+            "yukong",
+            "lynx"
+        ],
+        "wishName": [],
+        "url": [
+            ""
+        ]
+    },
+    {
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=34424578",
         "name": "Brilliant Fixation",
         "name_lower": [],
         "image": [
             1
         ],
         "shortName": [
-            "Rest",
-            "Mirror",
-            "Rest",
-            "Mirror",
-            "Whereabouts Should Dreams Rest",
-            "Past Self in Mirror"
+            "Evilbreaker",
+            "Sun",
+            "Evilbreaker",
+            "Sun",
+            "Ninjutsu Inscription: Dazzling Evilbreaker",
+            "Brighter Than the Sun"
         ],
-        "start": "2.3 +0800",
-        "end": "2024/07/10 11:59:00 +0800",
+        "start": "2.6 +0800",
+        "end": "2024/11/13 11:59:00 +0800",
         "version": "xxx",
         "wish5star": [
-            "Rest",
-            "Mirror",
-            "Rest",
-            "Mirror",
-            "Whereabouts Should Dreams Rest",
-            "Past Self in Mirror"
+            "Evilbreaker",
+            "Sun",
+            "Evilbreaker",
+            "Sun",
+            "Ninjutsu Inscription: Dazzling Evilbreaker",
+            "Brighter Than the Sun"
         ],
         "wish4star": [
-            "Past",
-            "Life",
+            "Montage",
+            "Fall",
+            "Sky",
+            "Montage",
+            "Fall",
+            "Sky"
+        ],
+        "wishName": [],
+        "url": [
+            ""
+        ]
+    },
+    {
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=33777892",
+        "name": "Brilliant Fixation",
+        "name_lower": [],
+        "image": [
+            1
+        ],
+        "shortName": [
+            "True",
+            "Blissful",
+            "True",
+            "Blissful",
+            "Scent Alone Stays True",
+            "Worrisome, Blissful",
+            "Scent Alone Stays True",
+            "Worrisome, Blissful"
+        ],
+        "start": "2024/10/02 12:00:00 +0800",
+        "end": "2024/10/22 15:00:00 +0800",
+        "version": "xxx",
+        "wish5star": [
+            "True",
+            "Blissful",
+            "True",
+            "Blissful",
+            "Scent Alone Stays True",
+            "Worrisome, Blissful",
+            "Scent Alone Stays True",
+            "Worrisome, Blissful"
+        ],
+        "wish4star": [
+            "Night",
+            "Feeling",
+            "Rendezvous",
+            "Night",
+            "Feeling",
+            "Rendezvous",
+            "Planetary Rendezvous",
+            "Planetary Rendezvous"
+        ],
+        "wishName": [],
+        "url": [
+            ""
+        ]
+    },
+    {
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=32661628",
+        "name": "Brilliant Fixation",
+        "name_lower": [],
+        "image": [
+            1
+        ],
+        "shortName": [
+            "Hunt",
+            "Need",
+            "Remembrance",
+            "Nightglow",
+            "Need",
+            "I Venture Forth to Hunt",
+            "Patience Is All You Need",
+            "Reforged Remembrance",
+            "Flowing Nightglow",
+            "Patience Is All You Need"
+        ],
+        "start": "2.5 +0800",
+        "end": "2024/10/02 11:59:00 +0800",
+        "version": "xxx",
+        "wish5star": [
+            "Hunt",
+            "Need",
+            "Remembrance",
+            "Nightglow",
+            "Need",
+            "I Venture Forth to Hunt",
+            "Patience Is All You Need",
+            "Reforged Remembrance",
+            "Flowing Nightglow",
+            "Patience Is All You Need"
+        ],
+        "wish4star": [
+            "Sweat",
+            "Self",
+            "Sweat",
+            "Self",
+            "Sweat",
+            "Self",
+            "Sweat",
+            "Self",
+            "The Birth of the Self",
+            "The Birth of the Self",
+            "The Birth of the Self",
+            "The Birth of the Self"
+        ],
+        "wishName": [],
+        "url": [
+            ""
+        ]
+    },
+    {
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=32306419",
+        "name": "Brilliant Fixation",
+        "name_lower": [],
+        "image": [
+            1
+        ],
+        "shortName": [
+            "Springs",
+            "Escapade",
+            "Springs",
+            "Escapade",
+            "Those Many Springs",
+            "Earthly Escapade",
+            "Those Many Springs",
+            "Earthly Escapade"
+        ],
+        "start": "2024/08/21 12:00:00 +0800",
+        "end": "2024/09/09 15:00:00 +0800",
+        "version": "xxx",
+        "wish5star": [
+            "Springs",
+            "Escapade",
+            "Springs",
+            "Escapade",
+            "Those Many Springs",
+            "Earthly Escapade",
+            "Those Many Springs",
+            "Earthly Escapade"
+        ],
+        "wish4star": [
+            "Bloom",
             "Prey",
-            "Past",
-            "Life",
-            "Prey"
+            "Vow",
+            "Bloom",
+            "Prey",
+            "Vow",
+            "A Secret Vow",
+            "A Secret Vow"
         ],
         "wishName": [],
         "url": [
@@ -244,87 +367,44 @@
         ]
     },
     {
-        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=29127195",
+        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=31605079",
         "name": "Brilliant Fixation",
         "name_lower": [],
         "image": [
             1
         ],
         "shortName": [
-            "Life",
-            "Eyes",
-            "Life",
-            "Eyes",
-            "Sailing Towards a Second Life",
-            "She Already Shut Her Eyes",
-            "Sailing Towards a Second Life",
-            "She Already Shut Her Eyes"
+            "Sunset",
+            "Fright",
+            "Sunset",
+            "Fright",
+            "Dance at Sunset",
+            "Night of Fright",
+            "Dance at Sunset",
+            "Night of Fright"
         ],
-        "start": "2024/05/29 12:00:00 +0800",
-        "end": "2024/06/18 15:00:00 +0800",
+        "start": "2.4 +0800",
+        "end": "2024/08/21 11:59:00 +0800",
         "version": "xxx",
         "wish5star": [
-            "Life",
-            "Eyes",
-            "Life",
-            "Eyes",
-            "Sailing Towards a Second Life",
-            "She Already Shut Her Eyes",
-            "Sailing Towards a Second Life",
-            "She Already Shut Her Eyes"
+            "Sunset",
+            "Fright",
+            "Sunset",
+            "Fright",
+            "Dance at Sunset",
+            "Night of Fright",
+            "Dance at Sunset",
+            "Night of Fright"
         ],
         "wish4star": [
-            "Repose",
-            "Vow",
-            "Choice",
-            "Repose",
-            "Vow",
-            "Choice",
-            "Landau's Choice",
-            "Landau's Choice"
-        ],
-        "wishName": [],
-        "url": [
-            ""
-        ]
-    },
-    {
-        "api_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=28252074",
-        "name": "Brilliant Fixation",
-        "name_lower": [],
-        "image": [
-            1
-        ],
-        "shortName": [
-            "Nightglow",
-            "Blissful",
-            "Nightglow",
-            "Blissful",
-            "Flowing Nightglow",
-            "Worrisome, Blissful",
-            "Flowing Nightglow",
-            "Worrisome, Blissful"
-        ],
-        "start": "2.2 +0800",
-        "end": "2024/05/29 11:59:00 +0800",
-        "version": "xxx",
-        "wish5star": [
-            "Nightglow",
-            "Blissful",
-            "Nightglow",
-            "Blissful",
-            "Flowing Nightglow",
-            "Worrisome, Blissful",
-            "Flowing Nightglow",
-            "Worrisome, Blissful"
-        ],
-        "wish4star": [
-            "Choreo",
+            "You",
             "Timing",
-            "Choreo",
+            "Self",
+            "You",
             "Timing",
-            "Perfect Timing",
-            "Perfect Timing"
+            "Self",
+            "The Birth of the Self",
+            "The Birth of the Self"
         ],
         "wishName": [],
         "url": [

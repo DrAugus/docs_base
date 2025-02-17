@@ -1,4 +1,28 @@
 {
+    "burnice": {
+        "key": "Burnice",
+        "id": "burnice",
+        "name": "柏妮思",
+        "prefix": "",
+        "star": 5,
+        "event_exclusive": true,
+        "intro": "你看起来不太热烈呢，<br/>要「燃」一下吗~",
+        "camp": "SonsofCalydon",
+        "ele": "Element.ether",
+        "weapon": "Weapon.anomaly"
+    },
+    "caesar_king": {
+        "key": "Caesar King",
+        "id": "caesar_king",
+        "name": "凯撒·金",
+        "prefix": "",
+        "star": 5,
+        "event_exclusive": true,
+        "intro": "我就是凯撒，卡吕冬之子的老大。",
+        "camp": "SonsofCalydon",
+        "ele": "Element.ether",
+        "weapon": "Weapon.anomaly"
+    },
     "seth_lowell": {
         "key": "Seth Lowell",
         "id": "seth_lowell",
@@ -8,6 +32,18 @@
         "event_exclusive": true,
         "intro": "队长，逮捕犯人就交给我吧！",
         "camp": "CriminalInvestigationSpecialResponseTeam",
+        "ele": "Element.ether",
+        "weapon": "Weapon.anomaly"
+    },
+    "jane_doe": {
+        "key": "Jane Doe",
+        "id": "jane_doe",
+        "name": "简·杜",
+        "prefix": "",
+        "star": 5,
+        "event_exclusive": true,
+        "intro": "哎呀，上次是上次嘛！这次我说的是真的哦，相信我吧~",
+        "camp": "FactionUnknown",
         "ele": "Element.ether",
         "weapon": "Weapon.anomaly"
     },

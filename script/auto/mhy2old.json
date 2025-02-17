@@ -2,23 +2,28 @@
     {
         "img_url": [
             [
-                "https://upload-os-bbs.hoyolab.com/upload/2024/06/20/0/6eb598c1e597742de52aede98949d5ff_2494949888003000342.jpeg",
-                "https://upload-os-bbs.hoyolab.com/upload/2024/06/20/0/dad653cd0d05d855ed74474c473ed3e2_2487057028963381089.jpeg",
-                "https://upload-os-bbs.hoyolab.com/upload/2024/06/20/0/8498b7ea05e401f022cfa5489d07fc71_310087367442193773.jpeg"
+                "https://upload-os-bbs.hoyolab.com/upload/2024/10/23/0/d5d534334d0d7f170a750272c37e42ac_3319645081812169425.jpeg",
+                "https://upload-os-bbs.hoyolab.com/upload/2024/10/23/0/7da3f0e61c6252342082f83244662067_4465537971219842450.jpeg",
+                "https://upload-os-bbs.hoyolab.com/upload/2024/10/23/0/ebb7a558038da75e85bc61d65037a4fe_5951500030333480086.jpeg"
+            ],
+            [
+                "https://upload-os-bbs.hoyolab.com/upload/2024/10/06/0/cb6bc66ea52831db26ecc32052b55624_1164933379887802631.jpeg",
+                "https://upload-os-bbs.hoyolab.com/upload/2024/10/06/0/31612ce67adb70f819b734a288b146e4_3396890663088724333.jpeg",
+                "https://upload-os-bbs.hoyolab.com/upload/2024/10/06/0/d2d5265050e0455dd44ae239770e7170_5817720916961488534.jpeg"
             ]
         ]
     },
     {
-        "post_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=30071782",
+        "post_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=34470331",
         "wish_char": {
             "name": [
-                "Romaritime Meluserenity",
-                "Chanson of Many Waters",
+                "The Moongrass' Enlightenment",
+                "Moment of Bloom",
                 "Epitome Invocation"
             ],
             "name_lower": [
-                "romaritime_meluserenity",
-                "chanson_of_many_waters",
+                "the_moongrass'_enlightenment",
+                "moment_of_bloom",
                 "epitome_invocation"
             ],
             "image": [
@@ -26,20 +31,20 @@
                 1
             ],
             "shortName": [
-                "Sigewinne",
-                "Furina"
+                "Nahida",
+                "Hu Tao"
             ],
-            "start": "u30132024/6/25 18:00u20142024/7/16 14:59u3013",
-            "end": "u30132024/6/25 18:00u20142024/7/16 14:59u3013",
+            "start": "u30132024/10/29 18:00u20142024/11/19 14:59u3013",
+            "end": "u30132024/10/29 18:00u20142024/11/19 14:59u3013",
             "version": "xxx",
             "wish5star": [
-                "sigewinne",
-                "furina"
+                "nahida",
+                "hu_tao"
             ],
             "wish4star": [
-                "noelle",
-                "gaming",
-                "rosaria"
+                "sethos",
+                "xingqiu",
+                "kuki_shinobu"
             ],
             "wishName": [],
             "url": [
@@ -53,21 +58,88 @@
                 1
             ],
             "shortName": [
-                "Silvershower Heartstrings",
-                "Splendor of Tranquil Waters"
+                "A Thous",
+                "Floating Dreams",
+                "Staff of Homa"
             ],
-            "start": "u30132024/6/25 18:00u20142024/7/16 14:59u3013",
-            "end": "u30132024/6/25 18:00u20142024/7/16 14:59u3013",
+            "start": "u30132024/10/29 18:00u20142024/11/19 14:59u3013",
+            "end": "u30132024/10/29 18:00u20142024/11/19 14:59u3013",
             "version": "xxx",
             "wish5star": [
-                "Silvershower Heartstrings",
-                "Splendor of Tranquil Waters"
+                "A Thous",
+                "Floating Dreams",
+                "Staff of Homa"
             ],
             "wish4star": [
                 "Lion's Roar",
-                "Favonius Lance",
+                "Dragon's Bane",
+                "Eye of Perception",
+                "Favonius Warbow"
+            ],
+            "url": [
+                ""
+            ]
+        }
+    },
+    {
+        "post_url": "https://bbs-api-os.hoyolab.com/community/post/wapi/getPostFull?post_id=34010550",
+        "wish_char": {
+            "name": [
+                "Forgefire's Blessing",
+                "Of Silken Clouds Woven",
+                "Epitome Invocation"
+            ],
+            "name_lower": [
+                "forgefire's_blessing",
+                "of_silken_clouds_woven",
+                "epitome_invocation"
+            ],
+            "image": [
+                1,
+                1
+            ],
+            "shortName": [
+                "Xilonen",
+                "Chiori"
+            ],
+            "start": "u3013After the Version 5.1 updateu20142024/10/29 17:59u3013",
+            "end": "u3013After the Version 5.1 updateu20142024/10/29 17:59u3013",
+            "version": "xxx",
+            "wish5star": [
+                "xilonen",
+                "chiori"
+            ],
+            "wish4star": [
+                "dori",
+                "candace",
+                "collei"
+            ],
+            "wishName": [],
+            "url": [
+                ""
+            ]
+        },
+        "wish_weapon": {
+            "name": "Epitome Invocation",
+            "image": [
+                1,
+                1
+            ],
+            "shortName": [
+                "Peak Patrol Song",
+                "Uraku Misugiri"
+            ],
+            "start": "u3013After the Version 5.1 updateu20142024/10/29 17:59u3013",
+            "end": "u3013After the Version 5.1 updateu20142024/10/29 17:59u3013",
+            "version": "xxx",
+            "wish5star": [
+                "Peak Patrol Song",
+                "Uraku Misugiri"
+            ],
+            "wish4star": [
+                "Sturdy Bone",
                 "Favonius Codex",
-                "Sacrificial Bow"
+                "Rust"
             ],
             "url": [
                 ""
