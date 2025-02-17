@@ -955,5 +955,82 @@
         "city": "Natlan",
         "ele": "dendro",
         "weapon": "claymore"
+    },
+    "yumemizuki_mizuki": {
+        "id": "yumemizuki_mizuki",
+        "name": "梦见月瑞希",
+        "prefix": "",
+        "star": 4,
+        "event_exclusive": false,
+        "intro": "来自食梦貘一族的心理诊疗师，秋沙钱汤的大股东。如果你受困于无法排解的烦恼，她一定可以为你提供帮助。",
+        "city": "Inazuma",
+        "ele": "pyro",
+        "weapon": "catalyst"
+    },
+    "lan_yan": {
+        "id": "lan_yan",
+        "name": "蓝砚",
+        "prefix": "",
+        "star": 4,
+        "event_exclusive": false,
+        "intro": "沉玉谷手工艺工会的骨干成员，擅长做各类藤编工艺品，快乐灵动的性格总能感染身边的人。",
+        "city": "Liyue",
+        "ele": "pyro",
+        "weapon": "catalyst"
+    },
+    "mavuika": {
+        "id": "mavuika",
+        "name": "玛薇卡",
+        "prefix": "",
+        "star": 4,
+        "event_exclusive": false,
+        "intro": "纳塔的神明与领袖，予众生希望的不灭之火、予众恶颤栗的焚净之炎。",
+        "city": "Natlan",
+        "ele": "pyro",
+        "weapon": "catalyst"
+    },
+    "citlali": {
+        "id": "citlali",
+        "name": "茜特菈莉",
+        "prefix": "",
+        "star": 4,
+        "event_exclusive": false,
+        "intro": "「烟谜主」的传奇萨满，名震纳塔的「黑曜石奶奶」。是绝对不可以招惹的狠角色，但也是遇到疑难问题时的最佳求助对象。",
+        "city": "Natlan",
+        "ele": "pyro",
+        "weapon": "catalyst"
+    },
+    "ororon": {
+        "id": "ororon",
+        "name": "欧洛伦",
+        "prefix": "",
+        "star": 4,
+        "event_exclusive": false,
+        "intro": "来自「烟谜主」、总是神情自若的年轻人。要捕捉他得费点功夫。",
+        "city": "Natlan",
+        "ele": "pyro",
+        "weapon": "catalyst"
+    },
+    "chasca": {
+        "id": "chasca",
+        "name": "恰斯卡",
+        "prefix": "",
+        "star": 4,
+        "event_exclusive": false,
+        "intro": "特拉洛坎的调停人，无论是人还是龙挑起的「争端」，无论是以言辞还是弹药加以「调停」，一切矛盾，皆止于此。",
+        "city": "Natlan",
+        "ele": "pyro",
+        "weapon": "catalyst"
+    },
+    "xilonen": {
+        "id": "xilonen",
+        "name": "希诺宁",
+        "prefix": "",
+        "star": 4,
+        "event_exclusive": false,
+        "intro": "纳茨卡延的铁匠，善于在工作的重担与舒适的生活之间找到平衡点。",
+        "city": "Natlan",
+        "ele": "pyro",
+        "weapon": "catalyst"
     }
 }
